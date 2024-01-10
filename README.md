@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Digital Pathology](https://senior-project-drexel.web.app/projects/75)
 
-- 🌱 I’m currently learning **Vue.js, Swift**
+- 🌱 I’m currently learning **Dagster**
 
 - 🤝 I’m looking for new role **Software Engineer/Full-Stack**
 
