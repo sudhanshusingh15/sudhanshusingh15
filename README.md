@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
-<h3 align="center">A multilingual Computer Science student at Drexel University, Class of 2023 with a minor in Finance. My educational focus on Software Engineering and Human-Computer Interaction provides me with a comprehensive understanding of the field. I've held diverse roles as a Product Management Analyst, Web Developer, and Project Engineer, gaining valuable experience in designing, implementing, and optimizing software solutions. Fueled by a passion for problem-solving and product development, I'm actively seeking new opportunities to apply and enhance my skills in the computer science field.</h3>
+<h3 align="center">Computer Science major who is passionate about merging technology and user-centric design to craft seamless and intuitive digital experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshusingh15&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshusingh15" /> </p>
 
