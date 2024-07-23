@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
 <h3 align="center">Computer Science major who is passionate about merging technology and user-centric design to craft seamless and intuitive digital experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshusingh15&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshusingh15" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshusingh15" alt="sudhanshusingh15" /></a> </p>
 
 - 🔭 I’m currently working on [Digital Pathology](https://senior-project-drexel.web.app/projects/75)
